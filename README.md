@@ -1,0 +1,1 @@
+Applicazione Java con GUI per la gestione e prenotazione di aule universitarie per un dipartimento. Consente di gestire aule, docenti e prenotazioni (singole o ricorrenti) evitando sovrapposizioni, con salvataggio su file. Progetto compilabile con Maven realizzato per il corso di Ingegneria del Software (UNISA).
